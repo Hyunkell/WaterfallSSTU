@@ -1,1 +1,1 @@
-WatefallFX support for SSTU engines
+WaterfallFX support for SSTU engines
